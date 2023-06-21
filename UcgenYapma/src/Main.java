@@ -11,7 +11,7 @@ public class Main {
         int n = scanner.nextInt();
         String bosluk = " ";
 
-        int temp = n;
+        int temp = n+1;
         int a = 0;
 
         for (int i = 0; i<n; i++){
@@ -27,8 +27,6 @@ public class Main {
 
             System.out.print("\n");
         }
-
-
 
 
     }
