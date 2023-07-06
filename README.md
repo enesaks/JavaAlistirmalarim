@@ -1,11 +1,35 @@
-# JavaAlistirmalarim
-*Adam Asmaca Oyunu Kodaları : [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/AdamAsmacaOyunu/src/Main.java)
+# Java Alıştırmalarım
 
-*Üçgen Yapma Kodları : [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/UcgenYapma/src/Main.java)
+Bu repository, Java programlama dilinde yaptığım çeşitli alıştırmaları içermektedir. Aşağıda yer alan projelerde farklı konularda pratik yapma fırsatı buldum.
 
-*Armstrong Sayı Kodaları[Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/ArmstrongSayi/src/Main.java)
+## Adam Asmaca Oyunu
 
-*SMS Mesaj Boyutu Hesaplama Kodaları : [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/SMSMesajBoyuHesaplama/src/Main.java)
+Bu uygulamada, **Adam Asmaca** oyununun Java kodlarını paylaşıyorum.
 
-*Harmonik Seri Hesaplama Kodaları : [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/HarmonikSeriHesaplama/src/Main.java)
+- [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/AdamAsmacaOyunu/src/Main.java)
 
+## Üçgen Yapma
+
+Bu uygulamada, **Üçgen Yapma** algoritmasının Java kodlarını paylaşıyorum.
+
+- [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/UcgenYapma/src/Main.java)
+
+## Armstrong Sayı
+
+Bu uygulamada, **Armstrong Sayı** algoritmasının Java kodlarını paylaşıyorum.
+
+- [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/ArmstrongSayi/src/Main.java)
+
+## SMS Mesaj Boyutu Hesaplama
+
+Bu uygulamada, **SMS Mesaj Boyutu Hesaplama** algoritmasının Java kodlarını paylaşıyorum.
+
+- [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/SMSMesajBoyuHesaplama/src/Main.java)
+
+## Harmonik Seri Hesaplama
+
+Bu uygulamada, **Harmonik Seri Hesaplama** algoritmasının Java kodlarını paylaşıyorum.
+
+- [Main.java](https://github.com/enesaks/JavaAlistirmalarim/blob/main/HarmonikSeriHesaplama/src/Main.java)
+
+Bu projelerde Java programlama dilinde pratik yaparak öğrendiklerimi paylaşmaktayım. Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen bana ulaşmaktan çekinmeyin.
